@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m [Akash]  <br>💻 Passionate about coding and web development  <br>🌱 Always learning and exploring new technologies  <br>🛠️ Skilled in HTML, CSS, JavaScript  <br>🎮 Created fun projects like Rock, Paper, Scissors and Tic Tac Toe games  <br>🎯 Currently improving my JavaScript and problem-solving skills  <br>🚀 Let's collaborate and build something awesome!<br>
+👋 Hi, I’m Akash  <br>💻 Passionate about coding and web development  <br>🌱 Always learning and exploring new technologies  <br>🛠️ Skilled in HTML, CSS, JavaScript  <br>🎮 Created fun projects like Rock, Paper, Scissors and Tic Tac Toe games  <br>🎯 Currently improving my JavaScript and problem-solving skills  <br>🚀 Let's collaborate and build something awesome!<br>
 
 
 # 💻 Tech Stack:
